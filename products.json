@@ -1,0 +1,5 @@
+[
+    {"name":"p1","color":"red","price":100},
+    {"name":"p2","color":"blue","price":200},
+    {"name":"p3","color":"black","price":300}
+]
